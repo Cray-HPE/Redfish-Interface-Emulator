@@ -1,4 +1,4 @@
-name: Build and Publish hms-test Docker image
+name: Build and Publish Redfish-Interface-Emulator Docker image
 on:
   - push
   - pull_request
